@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{08607CC3-370F-4640-A6C4-5DF4BB8CDC5A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SistemaWeb PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SistemaWeb/Pages/Index.cshtml">
+    <Files>
+      <File FileName="SistemaWeb/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="SistemaWeb/Pages/Shared/_LoginPartial.cshtml" Line="17" Column="107" />
+      <File FileName="SistemaWeb/Pages/Index.cshtml" Line="8" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SistemaWeb" expanded="True">
+            <Node name="SistemaWeb" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
